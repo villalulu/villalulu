@@ -1,0 +1,19 @@
+{
+  "name": "Villa Lulù",
+  "short_name": "Villa Lulù",
+  "description": "Invio lettura contatore",
+  "start_url": "/villalulu/",
+  "scope": "/villalulu/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#1a2a6c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
